@@ -1,0 +1,24 @@
+_repo: Isien-toita-b-Piirteita-suurmiestemme-elamasta_71412
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tela, M.
+    gutenberg_agent_id: '56220'
+    url: http://www.gutenberg.org/2009/agents/56220
+description: ''
+gutenberg_issued: '2023-08-15'
+identifiers:
+  gutenberg: '71412'
+language: fi
+pgterms:marc905: 20220727055711tela
+pgterms:marc906: '1916'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Isien töitä : $b Piirteitä suurmiestemme elämästä'
+url: http://www.gutenberg.org/ebooks/71412
